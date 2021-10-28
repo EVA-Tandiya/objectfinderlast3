@@ -1,0 +1,21 @@
+body{
+    background-size: cover ;
+    background-position:center;
+    font-family: 'Zen Antique Soft', serif;
+}
+label{
+    color: rgb(253, 93, 120);
+    border: 1px solid violet;
+}
+#start{
+    font-size: 22px;
+    background-color: rgb(22, 175, 175);
+    color: rgb(53, 248, 151);
+}
+
+canvas{
+    background-color: white;
+    border: 2px solid lightcoral;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 130px;
+}
